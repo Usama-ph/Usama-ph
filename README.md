@@ -40,6 +40,6 @@ I'm a **Full Stack Web Developer** with 2.5+ years of experience in building sca
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Usama-ph&show_icons=true&theme=radical" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usama-ph&theme=radical" height="160" />
 </p>
