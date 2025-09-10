@@ -42,6 +42,16 @@ I'm a **Full Stack Web Developer** with 2.5+ years of experience in building sca
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
+---
+
+## 📄 Resume
+<p align="center">
+  <a href="https://drive.google.com/file/d/14R5vyQo8fGc-FFrfPp_hL9LKRUaEwUST/view?usp=drivesdk" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ## 📊 GitHub Stats
 <p align="center">
