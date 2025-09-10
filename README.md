@@ -44,6 +44,12 @@ I'm a **Full Stack Web Developer** with 2.5+ years of experience in building sca
 </p>  
 ---
 
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usama-ph&theme=radical" height="160" />
+</p>
+
+---
 ## 📄 Resume
 <p align="center">
   <a href="https://drive.google.com/file/d/14R5vyQo8fGc-FFrfPp_hL9LKRUaEwUST/view?usp=drivesdk" target="_blank">
@@ -52,8 +58,3 @@ I'm a **Full Stack Web Developer** with 2.5+ years of experience in building sca
 </p>
 
 ---
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Usama-ph&theme=radical" height="160" />
-</p>
