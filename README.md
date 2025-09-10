@@ -1,4 +1,9 @@
 # Hi there, I'm Usama 👋  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF5722&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+%7C+NestJS+%7C+FastAPI;DevOps+%7C+AWS+%7C+DigitalOcean" alt="Typing SVG" />
+  </a>
+</p>
 
 I'm a **Full Stack Web Developer** with 2.5+ years of experience in building scalable web applications, APIs, and cloud-based solutions.  
 
