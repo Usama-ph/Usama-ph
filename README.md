@@ -17,7 +17,7 @@ I'm a **Full Stack Web Developer** with 2.5+ years of experience in building sca
 - **Backend:** Node.js, Express.js, NestJS, FastAPI  
 - **Database:** MongoDB, PostgreSQL, MySQL  
 - **DevOps & Cloud:** AWS (EC2, S3, Lambda), DigitalOcean, Docker  
-- **Other Tools:** Git, GitHub Actions, Postman, Nginx  
+- **Other Tools:** Git, GitHub Actions, Postman, Nginx, Swagger, Supabase  
 
 ---
 
