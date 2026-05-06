@@ -5,7 +5,7 @@
   </a>
 </p>
 
-I'm a **Full Stack Web Developer** with 2.5+ years of experience in building scalable web applications, APIs, and cloud-based solutions.  
+I'm a **Full Stack Web Developer** with 3 years of experience in building scalable web applications, APIs, and cloud-based solutions.  
 
 ---
 
